@@ -14,4 +14,26 @@ Los usuarios pueden realizar preguntas con voz y recibir respuesta en voz de la 
 
 ![AppInteractive](ai_chat.GIF)
 
+- **Video-player**
+
+![AppInteractive](entrevisa_sergio_corona.jpg)
+
+- **Audio-player**
+
+![AppInteractive](audio_player.JPG)
+
+- **AR models**
+
+![AppInteractive](ar_models.GIF)
+
+### Other Features
+
+- **Log-in con Firebase Auth**
+Se incluye recuperación de contraseña y verificacion de cuenta con email
+
+- **Firebase Storage**
+Se guardan imagenes y contenidos multimedia usando Firebase Storage y en la app se guardan en cache una vez se hace el request.
+
+- **State Management BLoC**
+Se utiliza Bloc para varias funcionalidades de la app
 
